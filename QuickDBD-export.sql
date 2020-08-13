@@ -5,6 +5,11 @@
 -- To reset the sample schema, replace everything with
 -- two dots ('..' - without quotes).
 
+--Export from quickdatabasediagrams.com--
+--Do Not Run--
+--Do Not Run--
+
+
 CREATE TABLE "departments" (
     "dept_no" varchar(30)   NOT NULL,
     "dept_name" varchar(35)   NOT NULL,
