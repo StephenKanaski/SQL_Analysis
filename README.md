@@ -1,2 +1,4 @@
 # SQL_Analysis
-Analysis of employoee data using SQL queries
+Analyzed employoee data using SQL queries
+Developed a schema to connect multiple tables
+
