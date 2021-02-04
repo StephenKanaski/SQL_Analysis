@@ -1,2 +1,2 @@
 # SQL_Analysis
-data engineering and analysis of employee csv files using SQL
+Analysis of employoee data using SQL queries
